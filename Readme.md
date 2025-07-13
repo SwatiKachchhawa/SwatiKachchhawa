@@ -1,15 +1,10 @@
-<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/68439-luffy-ohy/download"/><h1 align="Left">Hi 👋, I'm Mugdh Mathur</h1>
+<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/68439-luffy-ohy/download"/><h1 align="Left">Hi 👋, I'm Swati Kanwar</h1>
 <h3 align="left">👨🏼‍💻 Flutter Developer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugdhm&label=Profile%20views&color=0e75b6&style=flat" alt="mugdhm" /> </p>
 
 
-<p align="left">
-  <a href="https://twitter.com/mathurmugdh07" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mathurmugdh07?logo=twitter&style=for-the-badge" alt="mathurmugdh07" />
-  </a>
-</p>
 
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -20,11 +15,11 @@
 
 - 💬 Ask me about **Flutter Development**
 
-- 📫 How to reach me **mugdhmathur2004@gmail.com**
+- 📫 How to reach me **swatikanwar125@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YjXn0zNgYNN0_qwf_t-5kth-ClanPer_/view?usp=sharing)
 
-- ⚡ Fun fact **I am One Piece Fan and a Gamer**
+- ⚡ Fun fact **Picaso**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
