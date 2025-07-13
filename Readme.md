@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **swatikanwar125@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YjXn0zNgYNN0_qwf_t-5kth-ClanPer_/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact **Picaso**
 
